@@ -3,20 +3,12 @@
 ### Hello 👋 , I'm Rishabh Dev 
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=rishabhdev444.rishabhdev444)       [![Github](https://img.shields.io/github/followers/rishabhdev444?label=Follow&style=social)](https://github.com/rishabhdev444)
-
-
-<!-- <p align="left">
- <a href="https://github.com/rishabhdev444/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/rishabhdev444" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:rishabhdev444@gmmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p> -->
+<img  src="https://github.com/rishabhdev444/rishabhdev444/blob/main/giphy.gif" alt="Coder GIF"  width="400" height="400" style="float:left" align="right">
 
 ## 🙍 About Me:
 
 - 🔭 I’m currently pursuing B.Tech in EEE.
 - 🌱 I’m currently learning Data Structures And Algorithms.
-<!-- - 👯 I’m looking to collaborate on ... -->                
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Frontend Web Development and tech related stuff.
 - 📫 How to reach me: Email:- rishabhdev444@gmail.com
 
@@ -42,13 +34,10 @@
 <p align="left">
 	<a href="https://github.com/rishabhdev444"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rishabhdev444/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
 	<a href="https://www.instagram.com/mr_rdrana/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="rishabhdev444@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Mail"/></a>
 </p>
-<!-- <p>
- <a href="https://media.giphy.com/media/26DoiqmYcxgFICb3G/source.gif"><img width="150" align='right' src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/source.gif"></a>
-</p> -->
 
-![Gify](https://raw.githubusercontent.com/rishabhdev4444/Gify/giphy.gif)
+
+Last Made on 26 May,2021
  
