@@ -5,11 +5,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=rishabhdev444.rishabhdev444)       [![Github](https://img.shields.io/github/followers/rishabhdev444?label=Follow&style=social)](https://github.com/rishabhdev444)
 
 
-<p align="left">
+<!-- <p align="left">
  <a href="https://github.com/rishabhdev444/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/rishabhdev444" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:rishabhdev444@gmmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+</p> -->
 
 ## 🙍 About Me:
 
@@ -50,5 +50,5 @@
  <a href="https://media.giphy.com/media/26DoiqmYcxgFICb3G/source.gif"><img width="150" align='right' src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/source.gif"></a>
 </p> -->
 
-
+![Gify](https://raw.githubusercontent.com/rishabhdev4444/Gify/giphy.gif)
  
