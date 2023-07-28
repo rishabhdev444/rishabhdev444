@@ -7,9 +7,9 @@
 
 ## 🙍 About Me:
 
-- 🔭 I’m currently pursuing B.Tech in EEE.
-- 🌱 I’m currently learning Data Structures And Algorithms.
-- 💬 Ask me about Frontend Web Development and tech related stuff.
+- 🔭 I’m a B.Tech Graduate in EEE.
+- 🌱 Skilled in Java, C++, SQL, SpringBoot, HTML, CSS, Javascript.
+- 💬 Ask me about Frontend Web Development and Backend Development tech related stuff.
 - 📫 How to reach me: Email:- rishabhdev444@gmail.com
 
 
