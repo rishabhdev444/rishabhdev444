@@ -36,14 +36,13 @@
 ## 🧰 My GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhdev444&&show_icons=true&title_color=3A1C71&icon_color=bb2acf&text_color=3A1C71&bg_color=F4E2D8">       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdev444&theme=tokyonight)    
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
                              
 ## Let's Connect :coffee:
 <p align="left">
 	<a href="https://github.com/rishabhdev444"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rishabhdev444/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/mr_rdrana/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/rishabh._.dev._.rana._./"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="rishabhdev444@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Mail"/></a>
 </p>
 
