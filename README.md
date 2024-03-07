@@ -35,6 +35,9 @@
 
 ## 🧰 My GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhdev444&&show_icons=true&title_color=3A1C71&icon_color=bb2acf&text_color=3A1C71&bg_color=F4E2D8">       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdev444&theme=tokyonight)    
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
                              
 ## Let's Connect :coffee:
 <p align="left">
