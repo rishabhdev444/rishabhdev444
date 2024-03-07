@@ -29,7 +29,8 @@
    <img src="https://i.imgur.com/J6LeoUb.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+<img src="https://www.google.com/search?q=intellij+idea&sca_esv=a83cf3ab82d90a13&rlz=1C1OPNX_enIN1094IN1094&sxsrf=ACQVn091D0wUmJV7k_bG-GPBkmdhD2gd2Q:1709808219645&tbm=isch&source=iu&ictx=1&vet=1&fir=a3foPxSpL_u5GM%252Cl8fSjf1md8_O4M%252C%252Fm%252F03v0mn%253BLIUk9RaJStlVIM%252Cpd7PaaxvF_PQKM%252C_%253Blaw6gV_I8iMDxM%252Cm2HhXefPBR6Z7M%252C_%253BPyYXAEDuXGY1rM%252CbHrhxXzrgVtxDM%252C_%253BfxifYx6NM4jMfM%252CzMHK4xs325THgM%252C_&usg=AI4_-kRty2WzEPC6JYjyjM5T4aokiS8zFw&sa=X&ved=2ahUKEwjJnMP8--GEAxV7RmwGHasiB7AQ_B16BAhSEAE#imgrc=a3foPxSpL_u5GM" height='40
+ style="vertical-align:top; margin:4px">
 </br>
 
 ## 🧰 My GitHub Stats:
