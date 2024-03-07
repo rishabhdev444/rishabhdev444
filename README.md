@@ -8,7 +8,7 @@
 ## 🙍 About Me:
 
 - 🔭 I’m a B.Tech Graduate in EEE.
-- 🌱 Skilled in Java, C++, SQL, SpringBoot, HTML, CSS, Javascript.
+- 🌱 Skilled in Java, C++, SQL, SpringBoot, HTML, CSS, Javascript, React Js, Tailwind CSS.
 - 💬 Ask me about Frontend Web Development and Backend Development tech related stuff.
 - 📫 How to reach me: Email:- rishabhdev444@gmail.com
 
